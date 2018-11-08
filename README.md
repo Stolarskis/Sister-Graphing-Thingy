@@ -7,12 +7,12 @@ Screen shots
 ### 100
 ![something went wrong here, sorry cate](./grids/100.png)
 ### 200
-![something went wrong here, sorry cate](./grids/100.png)
+![something went wrong here, sorry cate](./grids/200.png)
 ### 300
-![something went wrong here, sorry cate](./grids/100.png)
+![something went wrong here, sorry cate](./grids/300.png)
 ### 500
-![something went wrong here, sorry cate](./grids/100.png)
+![something went wrong here, sorry cate](./grids/500.png)
 ### 1000
-![something went wrong here, sorry cate](./grids/100.png)
+![something went wrong here, sorry cate](./grids/1000.png)
 ### 5000
-![something went wrong here, sorry cate](./grids/100.png)
+![something went wrong here, sorry cate](./grids/5000.png)
