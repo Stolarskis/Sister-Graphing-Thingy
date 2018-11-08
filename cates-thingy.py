@@ -2,21 +2,11 @@ from random import randint
 import numpy as np
 import matplotlib.pyplot as plt
 
-
-def genRandomNumber(a,b):
-     return randint(a, b)
-
-def genRandomArray(a, b):
-    i = 0
-    array = []
-    while i < 300:
-        array.append(genRandomNumber(a,b))
-        i = i + 1
-    return array
-a = genRandomArray(0,10)
+points = input('Enter number of points to plot: ')
 
 
-N =  1
+#I miss err != nil
+N = int(points)
 x = np.random.rand(N)
 y = np.random.rand(N)
 
