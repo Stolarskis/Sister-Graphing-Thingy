@@ -7,7 +7,7 @@ edit: Now takes in an input. If you have python3 installed just run
 
 Then enter the number of points you want to plot
 
-Screen shots
+## Example Grids
 
 ### 100
 ![something went wrong here, sorry cate](./grids/100.png)
