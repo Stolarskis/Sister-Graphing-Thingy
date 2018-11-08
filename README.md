@@ -1,6 +1,7 @@
 # Sister Random Point Generator
 
 Takes in a hardcoded input to plot an n amount of points on a grid.
+
 edit: Now takes in an input. If you have python3 installed just run
 `python3 cates-thingy.py`
 
